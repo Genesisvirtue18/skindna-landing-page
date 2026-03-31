@@ -1,0 +1,7 @@
+com\skindna\landingpage\Config\CorsConfig.class
+com\skindna\landingpage\Service\UserService.class
+com\skindna\landingpage\SkindnaLandingPageApplication.class
+com\skindna\landingpage\Entity\User.class
+com\skindna\landingpage\Controller\UserController.class
+com\skindna\landingpage\Config\CorsConfig$1.class
+com\skindna\landingpage\Repository\UserRepository.class
